@@ -1,0 +1,15 @@
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\bin\Debug\net10.0\Opdracten.exe
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\bin\Debug\net10.0\Opdracten.deps.json
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\bin\Debug\net10.0\Opdracten.runtimeconfig.json
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\bin\Debug\net10.0\Opdracten.dll
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\bin\Debug\net10.0\Opdracten.pdb
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.AssemblyInfoInputs.cache
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.AssemblyInfo.cs
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.csproj.CoreCompileInputs.cache
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.dll
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\refint\Opdracten.dll
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.pdb
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.genruntimeconfig.cache
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\ref\Opdracten.dll
+C:\Users\Calvi\Downloads\School\Year 2\PROG\Opdracten\Opdracten\obj\Debug\net10.0\Opdracten.csproj.Up2Date
